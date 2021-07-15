@@ -34,5 +34,16 @@ The Header has a banner that changes every time user refreshes. Background image
 
 </div>
 
+# Youtube Trailer
+
+When you click on the movies in the home page categories, if that movie has a youtube trailer linked the Youtube player will show up.
+
+<div align="center"><a name="menu"></a>
+
+<img src="./public/images/3.PNG">
+
+</div>
+
+
 
 
