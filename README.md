@@ -11,4 +11,4 @@
 </p>
  
 # Home Page
- ![ScreenShot](/public/images/readme/NetflixHomePage.jpg)
+ ![ScreenShot](/public/images/readme/Netflix Home Page.PNG)
