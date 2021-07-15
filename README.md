@@ -11,6 +11,13 @@
 </p>
  
 # Home Page
+  The Home Page Contains
+  
+  ***1-Header***
+  ***2-Movie Description***
+  ***3-Movie Categories***
+  ***4-Yotube Trailers***
+  
  <div align="center"><a name="menu"></a>
 
 <img src="./public/images/1.PNG">
