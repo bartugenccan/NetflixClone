@@ -24,3 +24,15 @@
 
 </div>
 
+# Header
+
+The Header has a banner that changes every time user refreshes. Background image and movie description is changing based on Netflix Original movies. All the data fetched from https://api.themoviedb.org/.
+
+<div align="center"><a name="menu"></a>
+
+<img src="./public/images/2.PNG">
+
+</div>
+
+
+
