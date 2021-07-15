@@ -13,7 +13,7 @@
 # Home Page
  <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/1.PNG)
+<img src="./public/images/1.PNG" width="800" height="800">
 
 </div>
 
